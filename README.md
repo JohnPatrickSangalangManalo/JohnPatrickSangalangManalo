@@ -59,6 +59,9 @@ I love learning, solving problems, and collaborating with others.
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div>
+    <img src="https://github.com/user-attachments/assets/604889cd-0528-44c5-bd98-70538160fa16" alt="Connect GIF" width="200"/>
+  </div>
+  <div>
     <a href="https://jin-xsysntax-portfolio.vercel.app/">
       <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio"/>
     </a><br>
@@ -68,9 +71,6 @@ I love learning, solving problems, and collaborating with others.
     <a href="mailto:manalojohnpatricksangalang@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
-  </div>
-  <div>
-    <img src="https://github.com/user-attachments/assets/604889cd-0528-44c5-bd98-70538160fa16" alt="Connect GIF" width="200"/>
   </div>
 </div>
 
