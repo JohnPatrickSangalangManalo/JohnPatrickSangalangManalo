@@ -58,10 +58,10 @@ I love learning, solving problems, and collaborating with others.
 ## Let's Connect!
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <div>
+  <div style="flex-shrink: 0;">
     <img src="https://github.com/user-attachments/assets/604889cd-0528-44c5-bd98-70538160fa16" alt="Connect GIF" width="200"/>
   </div>
-  <div align="right">
+  <div style="text-align: right;">
     <a href="https://jin-xsysntax-portfolio.vercel.app/">
       <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio"/>
     </a><br>
