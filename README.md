@@ -13,7 +13,7 @@ I love learning, solving problems, and collaborating with others.
 - 👯 I’m looking to collaborate on: **Open source projects, school-based systems, and mini web apps**
 - 🤔 I’m looking for help with: **Building more responsive, mobile-friendly designs**
 - 💬 Ask me about: **Front-end and Back-end Web Development**
-- 📫 How to reach me: **johnpatrickmanalo9@gmail.com | [LinkedIn Profile]([https://www.linkedin.com/](https://www.linkedin.com/in/johnpatrick-manalo-a4903a314) | [My Portfolio](https://your-portfolio-link.com)**
+- 📫 How to reach me: **johnpatrickmanalo9@gmail.com | [LinkedIn Profile]([https://www.linkedin.com/](https://www.linkedin.com/in/johnpatrick-manalo-a4903a314)**
 - ⚡ Fun fact: **I love tech, photography, and exploring new skills!**
 
 ---
@@ -44,8 +44,8 @@ I love learning, solving problems, and collaborating with others.
 
 ## Latest Projects
 
-- [School Web Enrollment System](#) - A web application for online student registration.
-- [Certificate Generator](#) - A PHP-MySQL based system for automating document creation.
+- [Municipal of Mendez-Nunez Record Management System](#) - A web application for civil record of mendez-nuñez.
+- [GameDex](#) - A Flutter-powered hub for a variety of fun and exciting games. Fast, smooth, and ready to play!.
 - [Personal Portfolio Website](#) - A responsive, single-page portfolio (ongoing project).
 
 ---
@@ -58,5 +58,5 @@ I love learning, solving problems, and collaborating with others.
 
 ---
 
-> "Stay curious, keep coding, and build your dreams."
+> "Stay curious, keep coding, and build your dreams.</>"
 
