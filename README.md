@@ -57,8 +57,7 @@ I love learning, solving problems, and collaborating with others.
 
 ## Let's Connect!
 
-
-      ![tumblr_maeps94B6Y1qkgm7po1_500](https://github.com/user-attachments/assets/17f4ab5b-ab5d-42a9-8884-998c453d0159)
+![tumblr_maeps94B6Y1qkgm7po1_500](https://github.com/user-attachments/assets/cefe6fdf-6f1b-4f95-b00c-b01f092361d1)
 
 
 ---
