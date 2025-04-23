@@ -1,4 +1,4 @@
-# Hello, I'm John Patrick S. Manalo 👋
+# Hello, I'm JYNXsyntax 👋
 
 Welcome to my GitHub profile!  
 I'm a passionate Computer Science student from City College of Tagaytay, aiming to build creative, meaningful, and efficient solutions.  
@@ -13,7 +13,7 @@ I love learning, solving problems, and collaborating with others.
 - 👯 I’m looking to collaborate on: **Open source projects, school-based systems, and mini web apps**
 - 🤔 I’m looking for help with: **Building more responsive, mobile-friendly designs**
 - 💬 Ask me about: **Front-end and Back-end Web Development**
-- 📫 How to reach me: **johnpatrickmanalo9@gmail.com | [LinkedIn Profile](https://www.linkedin.com/) | [My Portfolio](https://your-portfolio-link.com)**
+- 📫 How to reach me: **johnpatrickmanalo9@gmail.com | [LinkedIn Profile]([https://www.linkedin.com/](https://www.linkedin.com/in/johnpatrick-manalo-a4903a314) | [My Portfolio](https://your-portfolio-link.com)**
 - ⚡ Fun fact: **I love tech, photography, and exploring new skills!**
 
 ---
