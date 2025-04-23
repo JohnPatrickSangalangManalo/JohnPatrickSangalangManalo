@@ -58,7 +58,7 @@ I love learning, solving problems, and collaborating with others.
 ## Let's Connect!
 
 
-
+![Image](https://github.com/user-attachments/assets/604889cd-0528-44c5-bd98-70538160fa16)
 ---
 
 > "$Stay curious, keep coding, and build your dreams.</>"
