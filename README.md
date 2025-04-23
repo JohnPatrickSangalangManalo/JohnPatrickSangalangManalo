@@ -13,7 +13,7 @@ I love learning, solving problems, and collaborating with others.
 - 👯 I’m looking to collaborate on: **Open source projects, school-based systems, and mini web apps**
 - 🤔 I’m looking for help with: **Building more responsive, mobile-friendly designs**
 - 💬 Ask me about: **Front-end and Back-end Web Development**
-- 📫 How to reach me: **johnpatrickmanalo9@gmail.com | [LinkedIn Profile]([https://www.linkedin.com/](https://www.linkedin.com/in/johnpatrick-manalo-a4903a314)**
+- 📫 How to reach me: **johnpatrickmanalo9@gmail.com | [LinkedIn Profile](https://www.linkedin.com/in/johnpatrick-manalo-a4903a314)**
 - ⚡ Fun fact: **I love tech, photography, and exploring new skills!**
 
 ---
@@ -57,9 +57,23 @@ I love learning, solving problems, and collaborating with others.
 
 ## Let's Connect!
 
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div>
+    <a href="https://jin-xsysntax-portfolio.vercel.app/">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio"/>
+    </a><br>
+    <a href="https://www.linkedin.com/in/johnpatrick-manalo-a4903a314/">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a><br>
+    <a href="mailto:manalojohnpatricksangalang@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    </a>
+  </div>
+  <div>
+    <img src="https://github.com/user-attachments/assets/604889cd-0528-44c5-bd98-70538160fa16" alt="Connect GIF" width="200"/>
+  </div>
+</div>
 
-![Image](https://github.com/user-attachments/assets/604889cd-0528-44c5-bd98-70538160fa16)
 ---
 
 > "$Stay curious, keep coding, and build your dreams.</>"
-
