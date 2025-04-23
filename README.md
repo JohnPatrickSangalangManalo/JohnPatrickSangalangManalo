@@ -57,9 +57,24 @@ I love learning, solving problems, and collaborating with others.
 
 ## Let's Connect!
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://jin-xsysntax-portfolio.vercel.app/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnpatrick-manalo-a4903a314/)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manalojohnpatricksangalang@gmail.com@gmail.com)
+<table>
+  <tr>
+    <td>
+      <a href="https://jin-xsysntax-portfolio.vercel.app/">
+        <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio"/>
+      </a><br>
+      <a href="https://www.linkedin.com/in/johnpatrick-manalo-a4903a314/">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      </a><br>
+      <a href="mailto:manalojohnpatricksangalang@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+      </a>
+    </td>
+    <td>
+      <img src="assets/yourgif.gif" alt="Connect GIF" width="200"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
