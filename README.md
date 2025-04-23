@@ -37,8 +37,8 @@ I love learning, solving problems, and collaborating with others.
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JINXsyntax&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JINXsyntax&theme=tokyonight" width="48%"/>
 </div>
 
 ---
