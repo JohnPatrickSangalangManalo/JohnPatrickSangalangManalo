@@ -57,25 +57,9 @@ I love learning, solving problems, and collaborating with others.
 
 ## Let's Connect!
 
-<table>
-  <tr>
-    <td>
-      <a href="https://jin-xsysntax-portfolio.vercel.app/">
-        <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio"/>
-      </a><br>
-      <a href="https://www.linkedin.com/in/johnpatrick-manalo-a4903a314/">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-      </a><br>
-      <a href="mailto:manalojohnpatricksangalang@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-      </a>
-    </td>
-    <td>
+
       ![tumblr_maeps94B6Y1qkgm7po1_500](https://github.com/user-attachments/assets/17f4ab5b-ab5d-42a9-8884-998c453d0159)
 
-    </td>
-  </tr>
-</table>
 
 ---
 
