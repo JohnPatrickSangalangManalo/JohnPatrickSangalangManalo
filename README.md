@@ -63,5 +63,5 @@ I love learning, solving problems, and collaborating with others.
 
 ---
 
-> "Stay curious, keep coding, and build your dreams.</>"
+> "$Stay curious, keep coding, and build your dreams.</>"
 
