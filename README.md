@@ -1,4 +1,4 @@
-# Hello, I'm JINXsyntax 👋
+# Hello, I'm John Patrick 👋
 
 Welcome to my GitHub profile!  
 I'm a passionate Computer Science student from City College of Tagaytay, aiming to build creative, meaningful, and efficient solutions.  
