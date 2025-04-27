@@ -58,7 +58,7 @@ I love learning, solving problems, and collaborating with others.
 
 ## Let's Connect! 🌐
 
-<div style="display: flex; justify-content: flex-start; align-items: center;">
+<div style="display: flex; justify-content: center; align-items: center;">
   <!-- GIF on the left -->
   <div>
     <img src="https://github.com/user-attachments/assets/f8e3872b-14e8-4c8c-876c-c8c96a583e19" alt="Connect Image" width="200"/>
