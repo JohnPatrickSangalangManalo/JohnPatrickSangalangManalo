@@ -79,4 +79,10 @@ I love learning, solving problems, and collaborating with others.
 
 ---
 
+## Visitor Counter
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=JINXsyntax&style=flat-square&color=blue)
+
+---
+
 > "$Stay curious, keep coding, and build your dreams.</>"
