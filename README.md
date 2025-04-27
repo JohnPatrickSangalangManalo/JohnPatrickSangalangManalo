@@ -82,6 +82,7 @@ I love learning, solving problems, and collaborating with others.
 ## Visitor Counter
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=JINXsyntax&style=flat-square&color=blue)
+![GitHub Stats](https://<your-vercel-app-name>.vercel.app/api?username=JINXsyntax&show_icons=true&theme=tokyonight)
 
 ---
 
