@@ -64,17 +64,19 @@ I love learning, solving problems, and collaborating with others.
   </div>
   
   <!-- Badges on the right -->
-  <div style="display: flex; justify-content: flex-start; align-items: center;">
-    <a href="https://jin-xsysntax-portfolio.vercel.app/" style="margin-right: 10px;">
-      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio"/>
-    </a>
-    <a href="https://www.linkedin.com/in/johnpatrick-manalo-a4903a314/" style="margin-right: 10px;">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="mailto:manalojohnpatricksangalang@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-    </a>
-  </div>
+ <div style="display: flex; justify-content: flex-start; align-items: center;">
+  <a href="https://jin-xsysntax-portfolio.vercel.app/" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/johnpatrick-manalo-a4903a314/" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:manalojohnpatricksangalang@gmail.com" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="#">
+    <img src="https://komarev.com/ghpvc/?username=JINXsyntax&style=for-the-badge&color=blue" alt="Visitor Count"/>
+  </a>
 </div>
 
 ---
