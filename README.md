@@ -13,7 +13,6 @@ I love learning, solving problems, and collaborating with others.
 - 👯 **Looking to collaborate on:** Open source projects, school-based systems, and mini web apps
 - 🤔 **Looking for help with:** Building more responsive, mobile-friendly designs
 - 💬 **Ask me about:** Front-end and Back-end Web Development
-- 📫 **Reach me at:** [manalojohnpatricksangalang@gmail.com](mailto:manalojohnpatricksangalang@gmail.com) | [LinkedIn Profile](https://www.linkedin.com/in/johnpatrick-manalo-a4903a314)
 - ⚡ **Fun fact:** I love tech, photography, and exploring new skills!
 
 ---
