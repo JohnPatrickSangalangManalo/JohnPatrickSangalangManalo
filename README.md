@@ -82,4 +82,4 @@ I love learning, solving problems, and collaborating with others.
 
 ---
 
-> **“Stay curious, keep coding, and build your dreams.”**
+> **“Any fool can write code that a computer can understand. Good programmers write code that humans can understand." – Martin Fowler”**
