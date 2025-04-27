@@ -44,7 +44,7 @@ I love learning, solving problems, and collaborating with others.
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JINXsyntax&show_icons=true&theme=tokyonight" width="60%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JINXsyntax&theme=tokyonight" width="60%"/>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JINXsyntax&layout=donut-vertical" width="60%"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JINXsyntax&layout=compact&theme=tokyonight" width="60%"/>
 </div>
 ---
 
