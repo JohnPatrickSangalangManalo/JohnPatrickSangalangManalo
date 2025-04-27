@@ -61,7 +61,7 @@ I love learning, solving problems, and collaborating with others.
 <div style="display: flex; justify-content: flex-start; align-items: center;">
   <!-- GIF on the left -->
   <div>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Connect GIF" width="200"/>
+    <img src="https://github.com/user-attachments/assets/f8e3872b-14e8-4c8c-876c-c8c96a583e19" alt="Connect Image" width="200"/>
   </div>
   
   <!-- Badges on the right -->
