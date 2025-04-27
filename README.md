@@ -42,10 +42,10 @@ I love learning, solving problems, and collaborating with others.
 ## GitHub Stats 📊
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JINXsyntax&show_icons=true&theme=radical" width="60%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JINXsyntax&theme=radical" width="60%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JINXsyntax&show_icons=true&theme=tokyonight" width="60%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JINXsyntax&theme=tokyonight" width="60%"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JINXsyntax&layout=donut-vertical" width="60%"/>
 </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ## Latest Projects 🚀
