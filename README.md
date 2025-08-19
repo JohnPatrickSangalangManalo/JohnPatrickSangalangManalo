@@ -65,7 +65,7 @@ I love learning, solving problems, and collaborating with others.
   
   <!-- Badges -->
   <div>
-    <a href="https://jin-xsysntax-portfolio.vercel.app/" style="margin-right: 10px;">
+    <a href="https://johnpatrick-portpolio.vercel.app/#" style="margin-right: 10px;">
       <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio"/>
     </a>
     <a href="https://www.linkedin.com/in/johnpatrick-manalo-a4903a314/" style="margin-right: 10px;">
