@@ -4,51 +4,56 @@
 
 <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="120">
 
-### 💻 Computer Science Student | Web Developer | Problem Solver
+### 💻 Computer Science Student | Full-Stack Web Developer (Aspiring)
 
-<i>Building practical systems, learning modern technologies, and improving one project at a time.</i>
+<i>“Building systems that are simple, useful, and impactful.”</i>
 
 </div>
 
 ---
 
-## 🌱 About Me
+## 🚀 Profile Overview
 
-I am a **Computer Science student from City College of Tagaytay** who is passionate about software development, web systems, and continuous learning.
+I am a **Computer Science student from City College of Tagaytay**, focused on building real-world web applications, improving backend systems, and developing clean user interfaces.
 
-I focus on building **clean, functional, and user-friendly applications** that solve real problems.
-
-- 🔭 Currently working on: Web systems, dashboards, and CRUD applications  
-- 🌱 Currently learning: PHP, MySQL, JavaScript (ES6+), and API integration  
-- 👯 Looking to collaborate on: Web apps, school systems, and open-source projects  
-- 🤔 Improving: Responsive UI/UX and backend optimization  
-- 💬 Ask me about: Web development, databases, and project structuring  
-- ⚡ Fun fact: I enjoy turning ideas into working systems  
+I enjoy turning ideas into working systems through code, logic, and continuous learning.
 
 ---
 
-## 🛠 Tech Stack
+## 🌱 About Me
+
+- 🔭 Currently working on: Web systems, dashboards, and CRUD applications  
+- 🌱 Currently learning: PHP, MySQL, JavaScript (ES6+), API development  
+- 👯 Looking to collaborate on: Web apps, school systems, and open-source projects  
+- 🤔 Improving: Responsive UI/UX design and backend architecture  
+- 💬 Ask me about: Web development, databases, and project structuring  
+- ⚡ Fun fact: I learn faster by building than by just reading  
+
+---
+
+## 🧠 Core Skills
 
 ### 🌐 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DFE1?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### ⚙️ Backend
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🧠 Programming & Learning
+### 🧠 Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🔧 Tools & Environment
+### 🔧 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -58,6 +63,10 @@ I focus on building **clean, functional, and user-friendly applications** that s
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=JohnPatrickSangalangManalo&theme=tokyonight&hide_border=true" width="60%"/>
 
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnPatrickSangalangManalo&layout=compact&theme=tokyonight&hide_border=true" width="60%"/>
+
 </div>
 
 ---
@@ -65,23 +74,33 @@ I focus on building **clean, functional, and user-friendly applications** that s
 ## 🚀 Featured Projects
 
 ### 🏛 Municipal Record Management System
-A web-based system for managing civil records efficiently with CRUD operations and database integration.
+A web-based system for managing civil records using PHP and MySQL with CRUD operations and admin dashboard.
 
 ### 🎮 GameDex
-A Flutter-powered application that serves as a hub for mini-games and interactive features.
+A Flutter-based interactive application designed as a mini game hub.
 
 ### 🌐 Personal Portfolio Website
-A responsive personal website showcasing my skills, projects, and development journey.
+A responsive portfolio website showcasing my skills, projects, and development journey.
 
 ---
 
-## 📈 Development Goals
+## 📈 Development Roadmap
 
-- 🚀 Improve full-stack development skills  
-- ⚡ Build more real-world systems  
+- ⚡ Master full-stack development (Frontend + Backend)  
 - 🧩 Learn API development and integration  
-- 📱 Enhance responsive UI/UX design  
-- 🧠 Explore software architecture basics  
+- 📱 Improve mobile-first responsive design  
+- 🏗 Study software architecture basics  
+- 🚀 Build more real-world deployable systems  
+
+---
+
+## 🧠 Developer Mindset
+
+> “Clean code is not written by chance — it is rewritten with intention.”
+
+> “A developer grows not by watching tutorials, but by finishing projects.”
+
+> “Simple systems are often the most powerful.”
 
 ---
 
@@ -105,18 +124,16 @@ A responsive personal website showcasing my skills, projects, and development jo
 
 ---
 
-## 💡 Developer Mindset
-
-> “Code is not just about making things work — it’s about making things better.”
-
-> “Every project is a step toward becoming a better developer.”
-
----
+## ⚡ Closing Statement
 
 <div align="center">
 
-### ⚡ John Patrick • Computer Science Student • Web Developer
+💻 Computer Science Student  
+🌐 Web Developer in Progress  
+🚀 Future Full-Stack Engineer  
 
-🚀 Always learning. Always building. Always improving.
+<br>
+
+<i>Always learning. Always building. Always improving.</i>
 
 </div>
