@@ -18,7 +18,7 @@
 ---
 
 <!-- WAVE HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00509D,100:00B4D8&height=200&section=header&text=Welcome%20to%20my%20GitHub&fontSize=30&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00509D,100:00B4D8&height=250&section=header&text=Welcome%20to%20my%20GitHub&fontSize=30&fontColor=ffffff" />
 
 ---
 
@@ -144,7 +144,7 @@ I enjoy turning ideas into functional, scalable, and user-friendly applications.
 ---
 
 <!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,100:00509D&height=150&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,100:00509D&height=250&section=footer" />
 
 <div align="center">
 
